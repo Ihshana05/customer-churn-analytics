@@ -213,33 +213,6 @@ jupyter notebook churn\_analysis.ipynb
 \*\*Dataset Source:\*\* \[Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 
-
----
-
-
-
-\## 📊 Sample Visualizations
-
-
-
-\### Executive Dashboard
-
-!\[Dashboard](visualizations/executive\_dashboard.png)
-
-
-
-\### Feature Importance Ranking
-
-!\[Features](visualizations/feature\_importance.png)
-
-
-
-\### Tenure vs Monthly Charges (Churn Overlay)
-
-!\[Scatter](visualizations/tenure\_charges\_scatter.png)
-
-
-
 ---
 
 
@@ -264,27 +237,4 @@ jupyter notebook churn\_analysis.ipynb
 
 ---
 
-
-
-\## 📫 Connect
-
-
-
-\*\*Your Name\*\* | \[LinkedIn](https://linkedin.com/in/yourprofile) | \[Portfolio](https://yourportfolio.com)
-
-
-
-\*This project showcases end-to-end data analytics capabilities for business decision-making, customer analytics, and predictive modeling—core skills for data analyst roles in consulting.\*
-
-
-
----
-
-
-
-\## 📄 License
-
-
-
-This project uses publicly available data for educational purposes. Dataset credit: IBM Sample Data Sets via Kaggle.
 
